@@ -1,0 +1,89 @@
+FSCK started by hadoop (auth:SIMPLE) from /172.21.0.2 for path /taxi at Wed Oct 28 16:51:41 UTC 2026
+
+
+/taxi/yellow_tripdata_2024-01.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741825_1001. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-01.parquet: MISSING 1 blocks of total size 16407209 B.
+/taxi/yellow_tripdata_2024-02.parquet: MISSING 2 blocks of total size 50349284 B.
+/taxi/yellow_tripdata_2024-03.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741829_1005. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-03.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741830_1006. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-04.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741832_1008. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-04.parquet: MISSING 1 blocks of total size 33554432 B.
+/taxi/yellow_tripdata_2024-05.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741833_1009. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-05.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741834_1010. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-06.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741836_1012. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-06.parquet: MISSING 1 blocks of total size 33554432 B.
+/taxi/yellow_tripdata_2024-07.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741837_1013. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-07.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741838_1014. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-08.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741839_1015. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-08.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741840_1016. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-09.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741841_1017. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-09.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741842_1018. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-10.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741843_1019. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-10.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741844_1020. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-11.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741845_1021. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-11.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741846_1022. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-12.parquet:  Under replicated BP-1349008270-172.21.0.2-1793206132258:blk_1073741847_1023. Target Replicas is 2 but found 1 live replica(s), 0 decommissioned replica(s), 0 decommissioning replica(s).
+
+/taxi/yellow_tripdata_2024-12.parquet: MISSING 1 blocks of total size 27969653 B.
+Status: CORRUPT
+ Number of data-nodes:	1
+ Number of racks:		1
+ Total dirs:			1
+ Total symlinks:		0
+
+Replicated Blocks:
+ Total size:	693001713 B
+ Total files:	12
+ Total blocks (validated):	24 (avg. block size 28875071 B)
+  ********************************
+  UNDER MIN REPL'D BLOCKS:	6 (25.0 %)
+  MINIMAL BLOCK REPLICATION:	1
+  CORRUPT FILES:	5
+  MISSING BLOCKS:	6
+  MISSING SIZE:		161835010 B
+  ********************************
+ Minimally replicated blocks:	18 (75.0 %)
+ Over-replicated blocks:	0 (0.0 %)
+ Under-replicated blocks:	18 (75.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	0.75
+ Missing blocks:		6
+ Corrupt blocks:		0
+ Missing replicas:		18 (37.5 %)
+ Blocks queued for replication:	0
+
+Erasure Coded Block Groups:
+ Total size:	0 B
+ Total files:	0
+ Total block groups (validated):	0
+ Minimally erasure-coded block groups:	0
+ Over-erasure-coded block groups:	0
+ Under-erasure-coded block groups:	0
+ Unsatisfactory placement block groups:	0
+ Average block group size:	0.0
+ Missing block groups:		0
+ Corrupt block groups:		0
+ Missing internal blocks:	0
+ Blocks queued for replication:	0
+FSCK ended at Wed Oct 28 16:51:41 UTC 2026 in 19 milliseconds
+
+
+The filesystem under path '/taxi' is CORRUPT

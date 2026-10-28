@@ -1,0 +1,2 @@
+SIZE     DISK_SPACE_CONSUMED_WITH_ALL_REPLICAS  FULL_PATH_NAME
+660.9 M  1.3 G                                  /taxi
