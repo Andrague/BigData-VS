@@ -1,0 +1,9 @@
+Porcja 1: wiersze=1,000,000, średnia=3.4609, mediana=1.7000
+Porcja 2: wiersze=1,000,000, średnia=3.2042, mediana=1.6200
+Porcja 3: wiersze=964,624, średnia=4.3149, mediana=1.6900
+
+Łączna liczba wierszy: 2,964,624
+(a) Średnia ze średnich porcji: 3.6600
+(b) Średnia z sumy / liczby wartości: 3.6522
+exit=0
+peak=1011232768

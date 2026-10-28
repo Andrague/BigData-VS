@@ -1,0 +1,10 @@
+Liczba grup: 26335
+
+Trzy najliczniejsze pary stref:
+                           count      mean
+PULocationID DOLocationID                 
+237          236           21883  1.058019
+236          237           19402  1.044600
+             236           15955  0.623932
+exit=0
+peak=1342177280
